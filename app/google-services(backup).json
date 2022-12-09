@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "926717682895",
+    "firebase_url": "https://praktikum-firebase-39740-default-rtdb.firebaseio.com",
+    "project_id": "praktikum-firebase-39740",
+    "storage_bucket": "praktikum-firebase-39740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926717682895:android:d6d8c1f4dcf9ff345ac3ba",
+        "android_client_info": {
+          "package_name": "com.example.aplikasifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926717682895-c2qtuogoa2m6f2cndsthqhskutc6r096.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvMOteQQ5nhCIAbTKhMXklmufFQxt2YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926717682895-c2qtuogoa2m6f2cndsthqhskutc6r096.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926717682895:android:ba34df58c394b7925ac3ba",
+        "android_client_info": {
+          "package_name": "com.prakpbp.aplikasifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926717682895-c2qtuogoa2m6f2cndsthqhskutc6r096.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvMOteQQ5nhCIAbTKhMXklmufFQxt2YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926717682895-c2qtuogoa2m6f2cndsthqhskutc6r096.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
